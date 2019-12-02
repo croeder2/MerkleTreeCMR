@@ -1,0 +1,32 @@
+1,Daniel Radcliffe,Harry Potter,Harry Potter
+2,Angelina Jolie,Lisa Rowe, Girl Interrupted
+3,Sandra Bullock,Debbie Ocean,Ocean's 8
+4,Rihanna, Nine Ball, Ocean's 8
+5,Shameik Moore, Miles Morales, Spider-Man Into the Spiderverse
+6,Jake Johnson,Ryan, Let's Be Cops
+7,Jonah Hill, Seth, Superbad
+8,Bill Murray, Steve Zizzou, The Life Aquatic,
+9,Amy Poehler, Abby, Wine Country
+10,Paul Rudd, Andy, Wet Hot American Summer
+11,Saoirse Ronan, Lady Bird, Lady Bird
+12,Timothee Chalamet,Kyle, Lady Bird
+13,Greta Gerwig,Frances,Frances Ha
+14,Brad Pitt,Cliff Booth, Once Upon a Time in Hollywood
+15,Jennifer Lawrence,Tiffany,Silver Linings Playbook
+16,Bradley Cooper,Pat,Silver Linings Playbook
+17,Emma Watson, Hermione Granger, Harry Potter
+18,Emma Stone, Olive, Easy A
+19,Chadwick Boseman, Black Panther, Black Panther
+20,Michael B. Jordan,Erik, Black Panther
+21,Letitia Wright, Shuri, Black Panther
+22,Zoe Kravitz, Nakia, Dope
+23, ASAP Rocky, Dom, Dope
+24,Phyllis Smith, Sadness, Inside Out
+25,Zendaya,MJ, Spider-Man Far From Home
+26,Octavia Spencer, Dorothy, Hidden Figures
+27,Hayden Christiensen, David Rice, Jumper
+28,Keanu Reeves, Neo, The Matrix
+29,Kristen Wiig,Annie, Bridesmaids
+30,Melissa McCarthy,Megan, Bridesmaids
+31,Jim Carrey, The Grinch, The Grinch
+32,Ice Cube, Captain Dickson, 21 Jump Street
